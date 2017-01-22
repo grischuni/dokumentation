@@ -1,3 +1,3 @@
-# dokumentation
+# Dokumentation
 
-Sammlung der relevanten Informationen zum WiFree Copter. 
+Sammlung von getesteter Soft- und Hardware im WiFree Projekt.
