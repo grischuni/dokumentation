@@ -23,11 +23,11 @@ Host: 192.168.12.1
 Mithilfe von ''iw dev wlan0 station dump'' eingeben und die Ausgabe HIER posten!
 
 ## Getestete Sticks
-* [CSL](Wifi-Kompatibilität.md#csl)
-* [Edimax](Wifi-Kompatibilität.md#edimax)
-* [Logilink](Wifi-Kompatibilität.md#logilink)
-* [TP-Link](Wifi-Kompatibilität.md#tp-link)
-* [Raspberry Pi](Wifi-Kompatibilität.md#raspberry-pi)
+* [CSL](wifi-kompatibilitaet.md#csl)
+* [Edimax](wifi-kompatibilitaet.md#edimax)
+* [Logilink](wifi-kompatibilitaet.md#logilink)
+* [TP-Link](wifi-kompatibilitaet.md#tp-link)
+* [Raspberry Pi](wifi-kompatibilitaet.md#raspberry-pi)
 
 ### CSL
 | Name | Hardware | Kompatibel |

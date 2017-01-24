@@ -1,15 +1,15 @@
 # Materialliste
 Die hier vorgestellte Meterialien sind lediglich Vorschläge. 
 
-* [Flightcontroller](Material.md#flightcontroller)
-* [Motoren](Material.md#motoren)
-* [ESC](Material.md#esc)
-* [Propeller](Material.md#propeller)
-* [Raspberry Pi](Material.md#raspberry-pi)
-* [Kamera](Material.md#kamera)
-* [WLan Stick](Material.md#wlan-stick)
-* [Akku](Material.md#akku)
-* [Zubehör](Material.md#zubehör)
+* [Flightcontroller](material.md#flightcontroller)
+* [Motoren](material.md#motoren)
+* [ESC](material.md#esc)
+* [Propeller](material.md#propeller)
+* [Raspberry Pi](material.md#raspberry-pi)
+* [Kamera](material.md#kamera)
+* [WLan Stick](material.md#wlan-stick)
+* [Akku](material.md#akku)
+* [Zubehör](material.md#zubehör)
 
 ## Flightcontroller
 Der WiFree Copter ist designed für die 35mm x 35mm *Flightcontroller*, wie die Naze32, der Flip32 oder der CC3D. Jedoch lassen sich alle *Flightcontroller* einsetzen die das MSP Protokoll unterstützen. 
@@ -34,7 +34,7 @@ Empfohlen wird der Raspberry Pi Zero, dieser bringt alles nötige mit und ist ei
 Kameras für den Raspberry Pi gibt es viele. Achte darauf das sie einen großen Bildwinkel hat (min. 160°). Wenn du einen Raspberry Pi Zero einsetzt benötigst du in der Regel noch ein Adapterkabel um die Kamera anschließen zu können.
 
 ## WLAN Stick
-Da nicht alle WLan Chipsätze unterstütz werden findest du [hier](Wifi-Kompatibilität.md) eine Liste von Positiv getesteten WLAN Sticks.
+Da nicht alle WLan Chipsätze unterstütz werden findest du [hier](wifi-kompatibilitaet.md) eine Liste von Positiv getesteten WLAN Sticks.
 
 ## Akku
 2S Flugakku, idealerweise den SLS 850mAh
