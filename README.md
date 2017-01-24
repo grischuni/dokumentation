@@ -3,7 +3,7 @@ Die Antwort auf fertige Spielzeugcopter ist der [WiFree Copter](http://open-diy-
 
 Der WiFree-Copter ist der beste Beweis dafür, was der Open-DIY-Gedanke realisiere kann! Technikbegeisterten wird ermöglicht, einen neuartigen Copter zu bauen, der mit Hilfe eines Smartphones gesteuert wird. Die Besonderheit ist, dass dabei das digitale HD-Bild live auf das Display übertragen wird! Hierbei werden sämtliche Technologien miteinander kombiniert – vom 3D-Druck, der Elektrotechnik, einem Rasperry Pi und einer Smartphone App bis hin zur Copter-Steuerung.
 
-Auf dieser Seite findest befindet sich eine Wissenssammlung aus den Erfahrungen der Entwickler und anderer WiFree Bauer. 
+Auf dieser Seite befindet sich eine Wissenssammlung aus den Erfahrungen der Entwickler und anderer WiFree Bauer. 
 
 ## Dokumentation
 
