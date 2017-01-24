@@ -24,7 +24,7 @@ Empfohlen wird der Raspberry Pi Zero, dieser bringt alles nötige mit und ist ei
 Kameras für den Raspberry Pi gibt es viele. Achte darauf das sie einen großen Bildwinkel hat (min. 160°). Wenn du einen Raspberry Pi Zero einsetzt benötigst du in der Regel noch ein Adapterkabel um die Kamera anschließen zu können.
 
 ## WLAN Stick
-Da nicht alle WLan Chipsätze unterstütz werden findest du [hier](Wifi-Kompatibilität.my) eine Liste von Positiv getesteten WLAN Sticks.
+Da nicht alle WLan Chipsätze unterstütz werden findest du [hier](Wifi-Kompatibilität.md) eine Liste von Positiv getesteten WLAN Sticks.
 
 ## Akku
 2S Flugakku, idealerweise den SLS 850mAh
