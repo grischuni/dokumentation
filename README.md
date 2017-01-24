@@ -9,7 +9,7 @@ Auf dieser Seite findest befindet sich eine Wissenssammlung aus den Erfahrungen 
 
 * [Material](Material.md)
 * [Aufbauanleitung](Aubauanleitung.md)
-* 
+* [Wifi-Kompatibilität](Wifi-Kompatibilität.md)
 
 ## Mitwirken
 Der WiFree Copter ist ein **Do It Yourself** Projekt und lebt von der Zusammenarbeit. Die Entwickler haben viel Freizeit und Geld eingesetzt um dieses Projekt zu ermöglichen. Nun bist du gefragt, durch das Teilen deiner Erfahrung, das erstellen von Anleitungen oder ganz einfach durch deine Fragen lebt dieses Projekt und kann wachesen. Zum Wissensaustausch steht ein [Forum](http://open-diy-projects.com/discussion/wifree-copter/) auf der Projektseite bereit, dort kannst du mit deinen Mitstreitern deine Erfahrungen austauschen und an der Weiterentwicklung mitwirken.
