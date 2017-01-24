@@ -1,6 +1,16 @@
 # Materialliste
 Die hier vorgestellte Meterialien sind lediglich Vorschläge. 
 
+* [Flightcontroller](material.md#flightcontroller)
+* [Motoren](material.md#motoren)
+* [ESC](material.md#esc)
+* [Propeller](material.md#propeller)
+* [Raspberry Pi](material.md#raspberry-pi)
+* [Kamera](material.md#kamera)
+* [WLan Stick](material.md#wlan-stick)
+* [Akku](material.md#akku)
+* [Zubehör](material.md#zubehör)
+
 ## Flightcontroller
 Der WiFree Copter ist designed für die 35mm x 35mm Flightcontroller, wie die Naze32, der Flip32 oder der CC3D. Jedoch lassen sich alle Flightcontroller einsetzen die das MSP Protokoll unterstützen. 
 Derzeit befinden sich folgende Flightcontroller im Einsatz:
@@ -35,7 +45,7 @@ Einen DC-DC-Converter 5V-DC-Converter
 Ein OTG-KAbel OTG Kabel für den Wlan-Stick
 
 
-# Settings
+# Setups im Einsatz
 Im folgenden findest du Settings die so von WiFree Bastlern eingesetzt werden.
 
 ## Kreativmonkey
