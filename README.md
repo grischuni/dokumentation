@@ -8,7 +8,7 @@ Auf dieser Seite befindet sich eine Wissenssammlung aus den Erfahrungen der Entw
 ## Dokumentation
 
 * [Material](material.md)
-* [Aufbauanleitung](aubauanleitung.md)
+* [Aufbauanleitung](aufbauanleitung.md)
 * [Wifi-Kompatibilität](wifi-kompatibilitaet.md)
 
 ## Mitwirken
