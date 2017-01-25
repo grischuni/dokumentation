@@ -21,7 +21,7 @@ Wer sich für das 3D-Model an sich interessiert und am Rahmen noch Änderugnen i
 Unter folgendem Link ist das Model zum Drucken auch zu haben: http://www.thingiverse.com/thing:1676023.
 
 ## Flightcontroller
-Der WiFree Copter ist designed für die 35mm x 35mm *Flightcontroller*, wie die Naze32, der Flip32 oder der CC3D. Jedoch lassen sich alle *Flightcontroller* einsetzen die das MSP Protokoll unterstützen. 
+Der WiFree Copter ist designed für die 35mm x 35mm *Flightcontroller*, wie die Naze32, der Flip32 oder der CC3D. Jedoch lassen sich alle *Flightcontroller* einsetzen die das [MSP Protokoll](http://www.stefanocottafavi.com/msp-the-multiwii-serial-protocol/) unterstützen. 
 Derzeit befinden sich folgende *Flightcontroller* im Einsatz:
 
 * CC3D
