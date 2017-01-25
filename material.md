@@ -1,6 +1,7 @@
 # Materialliste
 Die hier vorgestellte Meterialien sind lediglich Vorschläge. 
 
+* [Frame](material.md#frame)
 * [Flightcontroller](material.md#flightcontroller)
 * [Motoren](material.md#motoren)
 * [ESC](material.md#esc)
@@ -10,6 +11,14 @@ Die hier vorgestellte Meterialien sind lediglich Vorschläge.
 * [WLan Stick](material.md#wlan-stick)
 * [Akku](material.md#akku)
 * [Zubehör](material.md#zubehör)
+
+
+## Frame
+In diesem Projekt wird ein selbst entworfener Rahmen als Grundgrüst verwendet. Dieser wird von Benutzer XXX bereitgestellt. Zum Herunterladen der Daten zum Selbstdruck, sollte man sich im Forum anmelden. Im Beitrag XXX ist der Link zum *Download* zu finden. Die Abmessungen findet man in folgendem Beitrag XXX.
+Es gibt sogar eine geänderte Version, die etwas kompakter ist und in dem die Lage des Akkus im Rahmen nach unten verlegt wurde. Zu finden in foglendem Beitrag XXX.
+
+Wer sich für das 3D-Model an sich interessiert und am Rahmen noch Änderugnen in CAD vornehmen möchte, wird gebeten eine Anfrage an den Administrator des Forums zu stellen um vom Erstautoren XXX die CAD-Daten zu erhalten.
+Unter folgendem Link ist das Model zum Drucken auch zu haben: http://www.thingiverse.com/thing:1676023.
 
 ## Flightcontroller
 Der WiFree Copter ist designed für die 35mm x 35mm *Flightcontroller*, wie die Naze32, der Flip32 oder der CC3D. Jedoch lassen sich alle *Flightcontroller* einsetzen die das MSP Protokoll unterstützen. 
