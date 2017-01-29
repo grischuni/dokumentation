@@ -11,9 +11,9 @@ Den konkreten Linuxkerneltreiber kann man auch über die sog. [Hardware ID](http
 ### Signalstärke ermitteln
 Ob dein Stick die Signalstärke überträgt kannst du herausfinden indem du dich mit dem Raspberry Pi per SSH verbindest. Hierzu nutzt du am besten das passende Tool für dein Betriebssystem:
 
-Windows: Putty
-Linux: ssh root@192.168.12.1
-Android: z.B. JuiceSSH
+Windows: Putty  
+Linux: ssh root@192.168.12.1  
+Android: z.B. JuiceSSH  
 
 Mit den Anmeldedaten kannst du dich im WiFree Image einloggen: 
 
@@ -43,22 +43,22 @@ In der folgenden Liste findest du alle von der Community ausprobierten Sticks. T
 | Name          | Hardware           | Kompatibel                                                                               |
 | --------      | --------           | --------                                                                                 |
 | EW-7811Un     | Realtek RTL8188CUS | [teilweise](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3339) |
-| EW-7811UAC    | kA.                | [teilweise](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3333) |
+| EW-7811UAC    | Realtek RTL8812AU  | [teilweise](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3333) |
 | EW-7612UAn V2 | kA.                | [teilweise](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3365) |
 
 ### Logilink
 | Name     | Hardware           | Kompatibel                                                                        |
 | -------- | --------           | --------                                                                          |
 | WL0084E  | kA.                | nein                                                                              |
-| WL0084B  | kA.                | ja                                                                                |
-| WL0151   | kA.                | [ja](http://open-diy-projects.com/topic/troubleshooting-wifree/page/4/#post-3377) |
+| WL0084B  | Ralink RT5370      | ja                                                                                |
+| WL0151   | Ralink RT5370      | [ja](http://open-diy-projects.com/topic/troubleshooting-wifree/page/4/#post-3377) |
 | WL0151A  | Realtek RTL8188EUS | teilweise                                                                         |
 
 ### TP-Link
-| Name           | Hardware  | Kompatibel                                                                        |
-| --------       | --------  | --------                                                                          |
-| TL-WN725N V2.1 | kA.       | [ja](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3354) |
-| TL-WN821N      | RTL8192CU | ja                                                                                |
+| Name           | Hardware          | Kompatibel                                                                        |
+| --------       | --------          | --------                                                                          |
+| TL-WN725N V2.1 | Realtek RTL8188EU | [ja](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3354) |
+| TL-WN821N V4.1 | Realtek RTL8192CU | ja                                                                                |
 
 ### Raspberry Pi
 | Name                     | Hardware | Kompatibel                                                                               |
