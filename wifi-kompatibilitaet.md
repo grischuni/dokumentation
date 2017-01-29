@@ -35,36 +35,36 @@ In der folgenden Liste findest du alle von der Community ausprobierten Sticks. T
 * [Raspberry Pi](wifi-kompatibilitaet.md#raspberry-pi)
 
 ### CSL
-| Name | Hardware | Kompatibel |
-| -------- | -------- | -------- |
+| Name        | Hardware      | Kompatibel                                                                        |
+| --------    | --------      | --------                                                                          |
 | CSL 300Mbit | Ralink RT5572 | [ja](http://open-diy-projects.com/topic/troubleshooting-wifree/page/4/#post-3379) |
 
 ### Edimax
-| Name | Hardware | Kompatibel |
-| -------- | -------- | -------- |
-| EW-7811Un | Realtek RTL8188CUS | [teilweise](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3339) |
-| EW-7811UAC | kA. | [teilweise](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3333) |
-| EW-7612UAn V2 | kA. | [teilweise](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3365) |
+| Name          | Hardware           | Kompatibel                                                                               |
+| --------      | --------           | --------                                                                                 |
+| EW-7811Un     | Realtek RTL8188CUS | [teilweise](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3339) |
+| EW-7811UAC    | kA.                | [teilweise](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3333) |
+| EW-7612UAn V2 | kA.                | [teilweise](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3365) |
 
 ### Logilink
-| Name | Hardware | Kompatibel |
-| -------- | -------- | -------- |
-| WL0084E | kA. | nein |
-| WL0084B | kA. | ja |
-| WL0151 | kA. | [ja](http://open-diy-projects.com/topic/troubleshooting-wifree/page/4/#post-3377) |
-| WL0151A | Realtek RTL8188EUS | teilweise |
+| Name     | Hardware           | Kompatibel                                                                        |
+| -------- | --------           | --------                                                                          |
+| WL0084E  | kA.                | nein                                                                              |
+| WL0084B  | kA.                | ja                                                                                |
+| WL0151   | kA.                | [ja](http://open-diy-projects.com/topic/troubleshooting-wifree/page/4/#post-3377) |
+| WL0151A  | Realtek RTL8188EUS | teilweise                                                                         |
 
 ### TP-Link
-| Name | Hardware | Kompatibel |
-| -------- | -------- | -------- |
-| TL-WN725N V2.1 | kA. | [ja](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3354) |
-| 
+| Name           | Hardware  | Kompatibel                                                                        |
+| --------       | --------  | --------                                                                          |
+| TL-WN725N V2.1 | kA.       | [ja](http://open-diy-projects.com/topic/troubleshooting-wifree/page/3/#post-3354) |
+| TL-WN821N      | RTL8192CU | ja                                                                                |
 
 ### Raspberry Pi
-| Name | Hardware | Kompatibel |
-| -------- | -------- | -------- |
+| Name                     | Hardware | Kompatibel                                                                               |
+| --------                 | -------- | --------                                                                                 |
 | Raspberry Pi WiFi dongle | BCM43143 | [teilweise](http://open-diy-projects.com/topic/troubleshooting-wifree/page/5/#post-3546) |
-| 
+
 -----
 **Legende:**  
 ja = Stick wurde getestet und wird voll unterstützt.  
