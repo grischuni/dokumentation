@@ -1,16 +1,16 @@
-# Materialliste
-Die hier vorgestellte Meterialien sind lediglich Vorschläge. 
+## Materialliste
+Hier findest du eine Empfehlung für jedes Teil deines WiFree Copters sowie Tips. Am ende des Buchs kannst du dir ansehen welche Bauteile andere WiFree Nutzer im Einsatz haben.
 
-* [Frame](material.md#frame)
-* [Flightcontroller](material.md#flightcontroller)
-* [Motoren](material.md#motoren)
-* [ESC](material.md#esc)
-* [Propeller](material.md#propeller)
-* [Raspberry Pi](material.md#raspberry-pi)
-* [Kamera](material.md#kamera)
-* [WLan Stick](material.md#wlan-stick)
-* [Akku](material.md#akku)
-* [Zubehör](material.md#zubehör)
+* [Frame](02_01_material.md#frame)
+* [Flightcontroller](02_01_material.md#flightcontroller)
+* [Motoren](02_01_material.md#motoren)
+* [ESC](02_01_material.md#esc)
+* [Propeller](02_01_material.md#propeller)
+* [Raspberry Pi](02_01_material.md#raspberry-pi)
+* [Kamera](02_01_material.md#kamera)
+* [WLan Stick](02_01_material.md#wlan-stick)
+* [Akku](02_01_material.md#akku)
+* [Zubehör](02_01_material.md#zubehör)
 
 
 ## Frame
@@ -21,7 +21,7 @@ Wer sich für das 3D-Model an sich interessiert und am Rahmen noch Änderugnen i
 Unter folgendem Link ist das Model zum Drucken auch zu haben: http://www.thingiverse.com/thing:1676023.
 
 ## Flightcontroller
-Der WiFree Copter ist designed für die 35mm x 35mm *[Flightcontroller](flightcontroller.md)*, wie die Naze32, der Flip32 oder der CC3D. Jedoch lassen sich alle *Flightcontroller* einsetzen die das [MSP Protokoll](http://www.stefanocottafavi.com/msp-the-multiwii-serial-protocol/) unterstützen. 
+Der WiFree Copter ist designed für die 35mm x 35mm *[Flightcontroller](05_01_kompatibilitaetsliste.md#flightcontroller)*, wie die Naze32, der Flip32 oder der CC3D. Jedoch lassen sich alle *Flightcontroller* einsetzen die das [MSP Protokoll](http://www.stefanocottafavi.com/msp-the-multiwii-serial-protocol/) unterstützen. 
 
 ## Motoren
 Es können sowohl 1306 als auch 1806er Motoren eingesetzt werden. 
@@ -39,7 +39,7 @@ Empfohlen wird der Raspberry Pi Zero, dieser bringt alles nötige mit und ist ei
 Kameras für den Raspberry Pi gibt es viele. Achte darauf das sie einen großen Bildwinkel hat (min. 160°). Wenn du einen Raspberry Pi Zero einsetzt benötigst du in der Regel noch ein Adapterkabel um die Kamera anschließen zu können.
 
 ## WLAN Stick
-Da nicht alle WLan Chipsätze unterstütz werden findest du [hier](wifi-kompatibilitaet.md) eine Liste von Positiv getesteten WLAN Sticks.
+Da nicht alle WLan Chipsätze unterstütz werden findest du [hier](05_01_kompatibilitaetsliste.md#wifi-sticks) eine Liste von Positiv getesteten WLAN Sticks.
 
 ## Akku
 2S Flugakku, idealerweise den SLS 850mAh
@@ -48,20 +48,3 @@ Einen DC-DC-Converter 5V-DC-Converter
 
 ## Zubehör
 Ein OTG-Kabel OTG Kabel für den WLan-Stick
-
-
-# Setups im Einsatz
-Im folgenden findest du *Settings* die so von WiFree Bastlern eingesetzt werden.
-
-## Kreativmonkey
-Noch sind nicht alle Teile angekommen. Beim Akku konnte ich mich noch nicht entscheiden und WLAN Sticks wollte ich erst einmal die vorhandenen austesten.
-
-|  | Bezeichnung | Preis |
-| -------- | -------- | -------- |
-| *Flightcontroller* | [NAZE32 F3 Deluxe 10 DOF](http://www.banggood.com/de/Upgrade-NAZE32-F3-Flight-Controller-Acro-6-DOF-Deluxe-10-DOF-for-Multirotor-Racing-p-1010232.html) | 25,24€ |
-| ESC | 16A Micro Opto multi-rotor ESC (Im set mit Motoren) | |
-| Motor | DYS BE1806 2300KV Combo set with 16amp Opto Speed Controllers X 4 | 48,90€ |
-| Raspberry Pi | [Raspberry Pi Zero](https://shop.pimoroni.com/products/raspberry-pi-zero) | £4 |
-| Kamera | [Camera Module Board 5MP 160° Wide Angle Fish Eye Lenses](http://cgi.ebay.de/ws/eBayISAPI.dll?ViewItem&item=381433696194#ht_7786wt_1276) | 20.59€ |
-| Akku | | |
-| WLAN Stick | | |
